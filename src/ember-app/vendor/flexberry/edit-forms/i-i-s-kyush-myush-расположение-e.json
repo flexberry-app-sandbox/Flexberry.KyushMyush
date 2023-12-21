@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Расположение",
+  "name": "IISKyushMyushРасположениеE",
+  "className": "РасположениеE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kyush-myush-расположение",
+      "modelProjection": "РасположениеE"
+    }
+  ]
+}

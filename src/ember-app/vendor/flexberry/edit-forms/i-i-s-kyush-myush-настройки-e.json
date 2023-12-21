@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Настройки",
+  "name": "IISKyushMyushНастройкиE",
+  "className": "НастройкиE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kyush-myush-настройки",
+      "modelProjection": "НастройкиE"
+    }
+  ]
+}

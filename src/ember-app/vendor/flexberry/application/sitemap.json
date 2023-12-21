@@ -1,0 +1,80 @@
+﻿{
+  "applicationCaption": "Kyush myush",
+  "applicationTitle": "Kyush myush",
+  "items": [
+    {
+      "link": null,
+      "menuName": "курсовая",
+      "caption": "Курсовая",
+      "title": "Курсовая",
+      "children": [
+        {
+          "link": null,
+          "menuName": "сервера",
+          "caption": "Сервера",
+          "title": "Сервера",
+          "children": [
+            {
+              "link": "i-i-s-kyush-myush-расположение-l",
+              "menuName": null,
+              "caption": "Расположение",
+              "title": "",
+              "children": null
+            },
+            {
+              "link": "i-i-s-kyush-myush-отчет-о-сервере-l",
+              "menuName": null,
+              "caption": "Отчет о сервере",
+              "title": "",
+              "children": null
+            },
+            {
+              "link": "i-i-s-kyush-myush-сервер-l",
+              "menuName": null,
+              "caption": "Сервер",
+              "title": "",
+              "children": null
+            },
+            {
+              "link": "i-i-s-kyush-myush-настройки-l",
+              "menuName": null,
+              "caption": "Настройки",
+              "title": "",
+              "children": null
+            },
+            {
+              "link": "i-i-s-kyush-myush-программы-l",
+              "menuName": null,
+              "caption": "Программы",
+              "title": "",
+              "children": null
+            }
+          ]
+        },
+        {
+          "link": null,
+          "menuName": "сотрудники",
+          "caption": "Сотрудники",
+          "title": "Сотрудники",
+          "children": [
+            {
+              "link": "i-i-s-kyush-myush-должность-l",
+              "menuName": null,
+              "caption": "Должность",
+              "title": "",
+              "children": null
+            },
+            {
+              "link": "i-i-s-kyush-myush-сотрудник-l",
+              "menuName": null,
+              "caption": "Сотрудник",
+              "title": "",
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

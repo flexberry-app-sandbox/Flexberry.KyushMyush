@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-kyush-myush-сервер-e",
+  "editForm": "i-i-s-kyush-myush-сервер-e",
+  "external": false,
+  "caption": "Сервер",
+  "name": "IISKyushMyushСерверL",
+  "className": "СерверL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kyush-myush-сервер",
+      "modelProjection": "СерверL"
+    }
+  ]
+}

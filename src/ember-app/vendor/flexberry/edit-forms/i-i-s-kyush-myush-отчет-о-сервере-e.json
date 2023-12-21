@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Отчет о сервере",
+  "name": "IISKyushMyushОтчетОСервереE",
+  "className": "ОтчетОСервереE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kyush-myush-отчет-о-сервере",
+      "modelProjection": "ОтчетОСервереE"
+    }
+  ]
+}

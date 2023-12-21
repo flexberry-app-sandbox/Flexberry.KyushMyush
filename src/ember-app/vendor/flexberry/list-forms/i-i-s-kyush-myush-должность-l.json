@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-kyush-myush-должность-e",
+  "editForm": "i-i-s-kyush-myush-должность-e",
+  "external": false,
+  "caption": "Должность",
+  "name": "IISKyushMyushДолжностьL",
+  "className": "ДолжностьL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kyush-myush-должность",
+      "modelProjection": "ДолжностьL"
+    }
+  ]
+}

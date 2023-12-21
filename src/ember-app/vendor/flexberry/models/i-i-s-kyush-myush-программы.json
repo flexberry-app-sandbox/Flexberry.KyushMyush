@@ -1,0 +1,138 @@
+﻿{
+  "name": "IISKyushMyushПрограммы",
+  "modelName": "i-i-s-kyush-myush-программы",
+  "className": "Программы",
+  "nameSpace": "IIS.KyushMyush",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "версия",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "едИзмерения",
+      "type": "i-i-s-kyush-myush-ед-изм",
+      "flexberryType": "ЕдИзм",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "название",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "описание",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "размер",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "ПрограммыE",
+      "modelName": "i-i-s-kyush-myush-программы",
+      "attrs": [
+        {
+          "name": "название",
+          "caption": "Название",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "описание",
+          "caption": "Описание",
+          "hidden": false,
+          "index": 1
+        },
+        {
+          "name": "версия",
+          "caption": "Версия",
+          "hidden": false,
+          "index": 2
+        },
+        {
+          "name": "размер",
+          "caption": "Размер",
+          "hidden": false,
+          "index": 3
+        },
+        {
+          "name": "едИзмерения",
+          "caption": "Ед измерения",
+          "hidden": false,
+          "index": 4
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "ПрограммыL",
+      "modelName": "i-i-s-kyush-myush-программы",
+      "attrs": [
+        {
+          "name": "название",
+          "caption": "Название",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "описание",
+          "caption": "Описание",
+          "hidden": false,
+          "index": 1
+        },
+        {
+          "name": "версия",
+          "caption": "Версия",
+          "hidden": false,
+          "index": 2
+        },
+        {
+          "name": "размер",
+          "caption": "Размер",
+          "hidden": false,
+          "index": 3
+        },
+        {
+          "name": "едИзмерения",
+          "caption": "Ед измерения",
+          "hidden": false,
+          "index": 4
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

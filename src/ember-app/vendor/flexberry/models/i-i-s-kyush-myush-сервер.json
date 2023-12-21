@@ -1,0 +1,96 @@
+﻿{
+  "name": "IISKyushMyushСервер",
+  "modelName": "i-i-s-kyush-myush-сервер",
+  "className": "Сервер",
+  "nameSpace": "IIS.KyushMyush",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "iP",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "порт",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "протокол",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "СерверE",
+      "modelName": "i-i-s-kyush-myush-сервер",
+      "attrs": [
+        {
+          "name": "iP",
+          "caption": "IP",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "порт",
+          "caption": "Порт",
+          "hidden": false,
+          "index": 1
+        },
+        {
+          "name": "протокол",
+          "caption": "Протокол",
+          "hidden": false,
+          "index": 2
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "СерверL",
+      "modelName": "i-i-s-kyush-myush-сервер",
+      "attrs": [
+        {
+          "name": "iP",
+          "caption": "IP",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "порт",
+          "caption": "Порт",
+          "hidden": false,
+          "index": 1
+        },
+        {
+          "name": "протокол",
+          "caption": "Протокол",
+          "hidden": false,
+          "index": 2
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

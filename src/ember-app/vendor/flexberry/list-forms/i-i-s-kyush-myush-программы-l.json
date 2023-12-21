@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-kyush-myush-программы-e",
+  "editForm": "i-i-s-kyush-myush-программы-e",
+  "external": false,
+  "caption": "Программы",
+  "name": "IISKyushMyushПрограммыL",
+  "className": "ПрограммыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kyush-myush-программы",
+      "modelProjection": "ПрограммыL"
+    }
+  ]
+}

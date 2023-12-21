@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Сервер",
+  "name": "IISKyushMyushСерверE",
+  "className": "СерверE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kyush-myush-сервер",
+      "modelProjection": "СерверE"
+    }
+  ]
+}

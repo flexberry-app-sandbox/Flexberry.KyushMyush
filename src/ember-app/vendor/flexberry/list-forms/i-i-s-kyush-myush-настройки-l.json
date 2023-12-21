@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-kyush-myush-настройки-e",
+  "editForm": "i-i-s-kyush-myush-настройки-e",
+  "external": false,
+  "caption": "Настройки",
+  "name": "IISKyushMyushНастройкиL",
+  "className": "НастройкиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kyush-myush-настройки",
+      "modelProjection": "НастройкиL"
+    }
+  ]
+}
